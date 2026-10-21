@@ -1,10 +1,10 @@
-Shoe Inventory Management System
+# Shoe Inventory Management System
 
 Project Description
 
 The Shoe Inventory Management System is a Python application that manages shoe stock records using a text file. It allows users to view shoes, add new shoes, restock items, search by shoe code, calculate inventory values, and identify shoes with the highest and lowest quantities.
 
-Features
+## Features
 
 View all shoes in the inventory.
 
